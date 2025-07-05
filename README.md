@@ -98,3 +98,8 @@ This project is built purely for educational and demonstration purposes.
 It is not affiliated with or endorsed by any real brands or restaurants, including but not limited to 'Subway', 'Pizza Hut' or others used in this demo.
 All logos, names, and references are used only for showcasing features and do not represent actual partnerships.
 Eatify is not intended for real-world production use.
+
+## 👥 Contributors
+
+ - [Mohnish Jagda](https://github.com/mohnish-jagda)
+ - [Aarya Javia](https://github.com/aarya1708)
