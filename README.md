@@ -2,7 +2,11 @@
 
 Eatify is a robust, fullstack food delivery platform inspired by leading services like Swiggy and Zomato. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), Eatify enables seamless interaction between three distinct user roles — Customers, Restaurants, and Delivery Partners — each with their own dedicated dashboard and functionalities. Customers can browse restaurants, place orders, track deliveries in real-time, and make secure payments online or via cash on delivery. Restaurants have powerful tools to manage menus, accept orders, and view earnings, while delivery partners can manage and track assigned deliveries with OTP-based verification. Eatify also features JWT-based authentication, email notifications, and payment gateway integration using Razorpay, offering a real-world, end-to-end experience of how modern food delivery apps operate behind the scenes.
 
-## 🔗 Live Demo
+## 🔗 Repositories
+ - Frontend (React.js) - https://github.com/aarya1708/eatify-frontend
+ - Backend (Express.js, Node.js) - https://github.com/aarya1708/eatify-backend
+
+## 🌐 Live Demo
 You can check out Eatify live here:
 👉 https://eatify-frontend.vercel.app
 
